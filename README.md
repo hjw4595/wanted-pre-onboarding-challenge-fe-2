@@ -1,2 +1,3 @@
+page : https://hjw4595.github.io/wanted-pre-onboarding-challenge-fe-2/
 문서화에대한 개념이 부족해 이런함수를 만들겠다 정도만 정의한것같습니다...
 추후 강의를 통해 습득후 개편해 작성해보겠습니다 감사합니다
